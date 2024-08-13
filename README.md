@@ -16,4 +16,4 @@ The cleaning process involved:
 - restructuring of cell content for better visualization
 - creating new columns to represent unique features
 
-PS: Kinidly check [mobiles_program_script.ipynb](https://github.com/Rizama03/Data-Cleaning/blob/main/mobiles_program_script.ipynb) and [movies_program_script.ipynb](https://github.com/Rizama03/Data-Cleaning/blob/main/movies_program_script.ipynb) above :point_up_2: for the program codes and my step by step process to achieving it.
+PS: Kinidly check [mobiles_program_script.ipynb](https://github.com/Rizama03/Data-Cleaning/blob/main/mobiles_program_script.ipynb) and [movies_program_script.ipynb](https://github.com/Rizama03/Data-Cleaning/blob/main/movies_program_script.ipynb) for the program codes and my step by step process to achieving it.
